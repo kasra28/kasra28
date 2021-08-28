@@ -1,6 +1,6 @@
 ### an iranian coder in python
 ----------------------------------
-**my skills is**
+**my skills are**
 1. working with kali linux **and working with a lot of hacking tools** 
 2. writing code in python **python is my main programing language** 
 3. writing code in ruby **i just know the basic in ruby** 
