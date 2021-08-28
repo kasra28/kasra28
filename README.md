@@ -6,7 +6,7 @@
 3. writing code in ruby **i just know the basic in ruby** 
 4. writing code in bash and bash scripting **i just know how to write echo "hello word XD"**
 ----------------------------------
-**you can find me at**
+**you can find me on**
  	[instagram](https://www.instagram.com/invites/contact/?i=wdksknqbpnb3&utm_content=idzg6u1)
 ----------------------------------
 **my email address is kasraakhavan321@gmail.com**
