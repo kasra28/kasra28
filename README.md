@@ -1,4 +1,4 @@
-### used to be a coder now in an accountent
+### used to be a coder now i am an accountent
 ----------------------------------
 **my skills are**
 1. russian - persian - english 
