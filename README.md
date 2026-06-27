@@ -1,11 +1,10 @@
-### an iranian coder in python
+### used to be a coder now in an accountent
 ----------------------------------
 **my skills are**
-1. working with kali linux and most diffrent operating system like arch or debian base system **and working with a lot of hacking tools and programing** 
-2. programing in python- **python is my main programing language**
-3. coding in html and css **i make "aboute me" page on my projects**  
-4. programing in ruby **i just know the basic in ruby** 
-5. working with terminal and bash scripting
+1. russian - persian - english 
+2. still i have that programmer heart 
+3. i haved worked i know how life goes 
+4. still love gaming
 ----------------------------------
 **you can find me on**
  	[instagram](https://www.instagram.com/invites/contact/?i=wdksknqbpnb3&utm_content=idzg6u1)
