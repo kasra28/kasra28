@@ -1,52 +1,67 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--   HOW TO USE: create a public repository named EXACTLY like     -->
-<!--   your GitHub username, then save this file as README.md        -->
-<!--   inside it. It will appear on your profile page.               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" height="150" src="https://raw.githubusercontent.com/mxschmitt/action-test/master/banner_placeholder.png" alt=" "/>
-
 <div align="center">
 
-# ⚡ KASRA ⚡
+# ◢ ◤ KASRA ◥ ◣
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=bold&size=26&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&height=70&lines=used+to+be+a+coder+%3C%2F%3E;now+i+am+an+accountant+%F0%9F%93%8A;but+i+still+have+that+programmer+heart;and+yes...+still+gaming+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=bold&size=25&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=680&height=80&lines=hi%2C+i'm+kasra;accountant+by+day+%F0%9F%93%8A;CS2+professional+gamer+by+night+%F0%9F%94%A5;ex-coder+%E2%80%94+honorably+retired+%F0%9F%95%8A%EF%B8%8F;russian+%C2%B7+persian+%C2%B7+english" alt="Typing SVG" />
 </a>
 
 <br>
 
-![matrix](https://img.shields.io/badge/-matrix%20fan-000000?style=for-the-badge&logo=matrix&logoColor=00FF41&color=0d1117)
-![windows](https://img.shields.io/badge/-windows%20tools-0078D6?style=for-the-badge&logo=windows95&logoColor=white)
-![gamer](https://img.shields.io/badge/-gamer-7c3aed?style=for-the-badge&logo=steam&logoColor=white)
+![counter-strike](https://img.shields.io/badge/CS2-professional%20player-F59E0B?style=for-the-badge&logo=counterstrike&logoColor=white)
+![accounting](https://img.shields.io/badge/accountant-full%20time-00b83a?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![coding](https://img.shields.io/badge/coding-retired-7c3aed?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
 
 ---
 
-### 🧭 my journey
+### ⚠️ deprecation notice
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  NOTICE: developer.kasra has been officially RETIRED    │
+│                                                         │
+│  status ......... archived, not deleted                 │
+│  support ........ ends never                            │
+│  legacy code .... still runs in my heart                │
+│  security patch . shipped via CS2 headshots instead     │
+└─────────────────────────────────────────────────────────┘
+```
 
 ```js
-// life.js — my career so far
-const kasra = {
-  past:      "coder",
-  present:   "accountant",
-  heart:     "still 100% programmer",
-  languages: ["russian", "persian", "english"],
-  fuel:      "worked hard → i know how life goes",
-  alwaysOn:  ["gaming", "building random tools at 2am"]
+// kasra.config.js
+module.exports = {
+  name:        "Kasra",
+  past_life:   "wrote code",
+  current_job: "accountant",       // spreadsheets > stack traces... debatable
+  main_game:   "Counter-Strike 2", // professional
+  tongues:     ["русский", "فارسی", "english"],
+  motto:       "retired from code, not from winning"
 };
-
-while (kasra.heart === "programmer") {
-  kasra.countMoney();   // day job
-  kasra.writeCode();    // night passion
-  kasra.playGames();    // recovery mode
-}
 ```
 
 ---
 
-### 🌍 languages i speak
+### 🎯 CS2 career highlights
+
+| stat | value |
+|:---|:---:|
+| main role | 🔫 entry fragger |
+| spreadsheet accuracy | 💯 |
+| AWP flicks | also 💯 |
+| balance sheets balanced | ✔ always |
+| enemies balanced | ✔ frequently |
+
+<div align="center">
+<img src="https://img.shields.io/badge/rush-B_no_stop-000000?style=flat-square&color=F59E0B" />
+<img src="https://img.shields.io/badge/economy-round_16_problem-000000?style=flat-square&color=00b83a" />
+<img src="https://img.shields.io/badge/clutch_or_kick-yes-000000?style=flat-square&color=7c3aed" />
+</div>
+
+---
+
+### 🌍 trilingual mode enabled
 
 <div align="center">
 
@@ -54,37 +69,27 @@ while (kasra.heart === "programmer") {
 ![Russian](https://img.shields.io/badge/Русский-fluent-CC0000?style=flat-square&labelColor=000000)
 ![English](https://img.shields.io/badge/English-professional-0066CC?style=flat-square&labelColor=000000)
 
-**three languages · one keyboard · infinite ideas**
+**one keyboard · three languages · zero excuses**
 
 </div>
 
 ---
 
-### 💼 what i do
-
-| then 👨‍💻 | now 📊 | forever 🎮 |
-|:---:|:---:|:---:|
-| wrote code | read numbers | press W A S D |
-| debugged apps | balanced books | clutched rounds |
-| shipped features | filed reports | respawned |
-
-*work taught me how life goes — code keeps my heart young.*
-
----
-
-### 📫 you can find me on
+### 📫 contact me
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow_me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=wdksknqbpnb3&utm_content=idzg6u1)
 [![Gmail](https://img.shields.io/badge/Gmail-kasraakhavan321-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasraakhavan321@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40kasra__akhavan1305-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kasra_akhavan1305)
 
 </div>
 
 ---
 
 <div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=kasra&label=profile+views&color=7c3aed&style=flat-square" alt="profile views" />
 
-*"ex-coder, full-time human, part-time pixel warrior."*
+*"retired the compiler, kept the aim."* 🎮
+
 </div>
